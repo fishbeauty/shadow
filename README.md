@@ -1,15 +1,14 @@
-## ShadowRocket
+## ShadoWingy
 
 
 ![as](https://raw.githubusercontent.com/fishbeauty/testEntity/master/icon.png)
 
-ShadowRocket is a great proxy util
+ShadoWingy is a Simple proxy util
 
-Support SS,SSR
+Users can use set proxy and debug network easyly with this app
 
 Provide Rule Based filters
 
-Provied Subscribe feature
 
 
 ### Support or Contact
